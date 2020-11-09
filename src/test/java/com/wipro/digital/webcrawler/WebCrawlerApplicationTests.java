@@ -7,7 +7,8 @@ import org.springframework.boot.test.context.SpringBootTest;
 class WebCrawlerApplicationTests {
 
 	@Test
-	void contextLoads() {
+	void executeWebCrawler() {
+
 	}
 
 }
