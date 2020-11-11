@@ -1,0 +1,3 @@
+web:
+  domain: chartsoftech.co.uk
+  url: http://${web.domain}/

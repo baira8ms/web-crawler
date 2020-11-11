@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: WEB-CRAWLER-V1
+web:
+  domain: wiprodigital.com
+  url: https://${web.domain}/
+
