@@ -13,13 +13,13 @@ A Web crawler, extracts unique list of urls under the same domain including stat
 ```
 $ ./gradlew clean build
 $ ./gradlew bootRun -Dweb.domain=<domain_name>
-Example: **./gradlew bootRun -Dweb.domain=wiprodigital.com**
+Example: ./gradlew bootRun -Dweb.domain=wiprodigital.com
 
 or
 
 > gradlew clean build
 > gradlew bootRun -Dweb.domain=<domain_name>
-Example: **gradlew bootRun -Dweb.domain=wiprodigital.com**
+Example: gradlew bootRun -Dweb.domain=wiprodigital.com
 
 or
 
